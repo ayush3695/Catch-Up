@@ -31,6 +31,15 @@
           "current_key": "AIzaSyCdsAltbstqN2xsgz2l9iAC3ILGKlrUwHY"
         }
       ],
+      "client_code": [
+        {
+          "client_id": "1013452151517-9g6gmkd9q45dfisgipk5ga9bverfoido.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sv.catchup",
+            "certificate_hash": "cfc39de194c7192b52e39ad9471647047c2080e5"
+          }
+        },
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
